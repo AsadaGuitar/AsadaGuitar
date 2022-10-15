@@ -16,7 +16,6 @@
 ## Profile
 ```json
 { 
-  "name": "Asada",
   "age": 24,
   "gender": "man",
 }
