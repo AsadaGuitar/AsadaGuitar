@@ -28,11 +28,3 @@
 ## Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadaGuitar&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
-
-## Favorites Frameworks/Libraries
-### [Akka](https://akka.io/docs/)
-+ I have experience implementing the whole process from `akka-actor` to `akka-projection`.
-### [PlayFramework](https://www.playframework.com/)
-+ It is often used on the side and can be implemented in one way or another.
-### [SpringFramework](https://spring.io/projects/spring-framework)
-+ It was the first framework I used and I still use it occasionally.
